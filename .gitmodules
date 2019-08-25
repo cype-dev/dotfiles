@@ -1,0 +1,6 @@
+[submodule "bin"]
+	path = bin
+	url = https://github.com/cype-dev/bin
+[submodule "config"]
+	path = config
+	url = https://github.com/cype-dev/config
